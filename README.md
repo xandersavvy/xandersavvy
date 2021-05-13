@@ -34,6 +34,6 @@ Funny website for proposing made it for my crush () when started learning Web De
 
  - ###  [Soulmate.Com 💒](https://github.com/xandersavvy/soulmate.com)
 
-Made this ans ubmitted as project when i learnt ABC's of HTML and CSS. Static and poorly styled though. Made it using **HTML,CSS, Vanilla JS** (for form validation)
+Made this and submitted as project when i learnt ABC's of HTML and CSS. Static and poorly styled though. Made it using **HTML,CSS, Vanilla JS** (for form validation)
 
 - - - -
