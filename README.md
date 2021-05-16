@@ -21,8 +21,13 @@ I love to practice problem solving algorithms. This repo where I try to keep rec
 This is my 10 HTML CSS VANILLA JS component , this is inspired by florin pop . His coding challenge is fun to watch and follow .
 
 - - - -
+- ### [My first android (to do) app](https://github.com/xandersavvy/My-first-todo)
+This is my first android app and it is made with kotlin(I am beginner in this langauge ) I did it with help of Philipp Lackner 
 
- - ###  [Smart Hospital 🏥](https://github.com/xandersavvy/Simple-smart-hospital)
+
+- - - -
+
+- ###  [Smart Hospital 🏥](https://github.com/xandersavvy/Simple-smart-hospital)
  Made a simple static data visualization of health parameters taken by sensors(Only has frontend ) in a hour for my college project
 
 
@@ -40,3 +45,4 @@ Funny website for proposing made it for my crush () when started learning Web De
 Made this and submitted as project when i learnt ABC's of HTML and CSS. Static and poorly styled though. Made it using **HTML,CSS, Vanilla JS** (for form validation)
 
 - - - -
+
