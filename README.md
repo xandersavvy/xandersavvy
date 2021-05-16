@@ -2,8 +2,6 @@
 
 <center>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandersavvy&hide=html&layout=compact&theme=dracula" />
-
-</table>
 </center>
 
  - ####  [xandersavvy.github.io 👦](https://github.com/xandersavvy/xandersavvy.github.io)
