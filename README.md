@@ -1,7 +1,7 @@
 # Hi there I am Souvik Ghosh 👋
-
+<center>
 <img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandersavvy&hide=html&layout=compact&theme=dracula" />
-
+</center>
 -->
 
  - ####  [xandersavvy.github.io 👦](https://github.com/xandersavvy/xandersavvy.github.io)
