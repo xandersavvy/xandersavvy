@@ -1,9 +1,7 @@
 # Hi there I am Souvik Ghosh 👋
 
-<!--
-**xandersavvy/xandersavvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandersavvy&hide=html&layout=compact&theme=dracula" />
 
-###
 -->
 
  - ####  [xandersavvy.github.io 👦](https://github.com/xandersavvy/xandersavvy.github.io)
