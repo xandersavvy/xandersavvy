@@ -1,8 +1,8 @@
 # Hi there I am Souvik Ghosh 👋
 
-<center>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandersavvy&hide=html&layout=compact&theme=dracula" />
-</center>
+![Souvik Ghosh's Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=xandersavvy&layout=compact&theme=dracula)
+![Souvik Ghosh's Github Stats](https://github-readme-stats.vercel.app/api?username=xandersavvy&hide=stars&theme=dracula&show_icons=true)
+
 
  - ####  [xandersavvy.github.io 👦](https://github.com/xandersavvy/xandersavvy.github.io)
 
