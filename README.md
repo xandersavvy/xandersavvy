@@ -8,6 +8,12 @@
 
 My portfolio website
 
+- - - -
+ - #### [Employee and Stock Management System](https://github.com/xandersavvy/Final-YearProject-NiT)
+ Employee Management App .
+- - - -
+ - #### [React - Shorts ](https://github.com/xandersavvy/react-shorts)
+  Just Like YT shorts. Small and solves only a problem 
 - - - - 
 
  - ###  [Problem Solving 💻](https://github.com/xandersavvy/Problem-solving)
