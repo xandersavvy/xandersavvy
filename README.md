@@ -6,7 +6,7 @@
 - - - - 
 [![Twitter Follow](https://img.shields.io/twitter/follow/xandersouvik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Souvik_Ghosh&screen_name=Souvik_Ghosh)
 
-![Souvik Ghosh's Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=xandersavvy&count_private=true&layout=compact&theme=dracula&hide=html,css)
+![Souvik Ghosh's Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=xandersavvy&count_private=true&layout=compact&theme=dracula&hide=html,css,javascript)
 
 - - - -
 ![Souvik Ghosh's Github Stats](https://github-readme-stats.vercel.app/api?username=xandersavvy&hide=stars&theme=dracula&show_icons=true)
