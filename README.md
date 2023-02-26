@@ -13,17 +13,17 @@
 - - - -
 
  - 🛠 Skills - 
-     - ![TypeScript](https://img.shields.io/badge/-typescript-gray?style=flat-circle&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![React](https://img.shields.io/badge/-react-gray?style=flat-circle&logo=react) ![Mui](https://img.shields.io/badge/-mui-gray?style=flat-circle&logo=mui) ![Bootstrap](https://img.shields.io/badge/-bootstrap-gray?style=flat-circle&logo=bootstrap) 
+     - ![C#](https://img.shields.io/badge/-csharp-gray?style=flat-circle&logo=csharp) ![dotnet](https://img.shields.io/badge/-dotnet-gray?style=flat-circle&logo=dotnet) ![](https://img.shields.io/badge/-spring-gray?style=flat-circle&logo=spring) ![TypeScript](https://img.shields.io/badge/-typescript-gray?style=flat-circle&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![React](https://img.shields.io/badge/-react-gray?style=flat-circle&logo=react) ![Mui](https://img.shields.io/badge/-mui-gray?style=flat-circle&logo=mui) ![Bootstrap](https://img.shields.io/badge/-bootstrap-gray?style=flat-circle&logo=bootstrap) 
     
      - ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java) ![GoLang](https://img.shields.io/badge/-go-white?style=flat-circle&logo=go) ![Python](https://img.shields.io/badge/-python-white?style=flat-circle&logo=python) ![C++](https://img.shields.io/badge/-C++-blue?style=flat-circle&logo=c%2B%2B)
      
-     - ![Kubernetes](https://img.shields.io/badge/-kubernetes-white?style=flat-circle&logo=kubernetes) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) 
+     - ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) 
 
      - ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 
      - ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux) ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
-     - ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle) ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+     - ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)  ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql) 
 
 
 
