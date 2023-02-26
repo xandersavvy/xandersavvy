@@ -33,8 +33,9 @@
 
 - 🌱 In my own github Projects Working On / recently worked On 
 
-    
-    **[Movie DataBase App](https://github.com/xandersavvy/Db-Movie-App-DotNet)**  - A CRUD app with authentication made usine .Net , MSSQL SERVER
+    **[Crud and login App](https://github.com/xandersavvy/ContentBoard-Blog-App)**  - A CRUD app with authentication though  i have to implement jwt and password encryptionand working on that , made using JAVA , Spring Boot, SPring JPA , MYSQL , Jquery for the frontend.
+
+    **[Movie DataBase App](https://github.com/xandersavvy/Db-Movie-App-DotNet)**  - A CRUD app with authentication made using .Net , MSSQL SERVER
 
     **[MarkDown Blog](https://github.com/xandersavvy/mdBook)**  - A simple multi user  Mark Down Blog App . Made it using NodeJS , TypeScript , Express , MUI etc.
 
