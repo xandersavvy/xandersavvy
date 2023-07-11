@@ -26,12 +26,15 @@
      - ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)  ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql) 
 
 
+- - - - 
+- 🏢 Work Experience
+  - Currently I am working in IBM as an Software Engineer
 
 
 
 - - - - 
 
-- 🌱 In my own github Projects Working On / recently worked On 
+- 🌱 In my own github Projects Working On / recently worked On
 
     **[Crud and login App](https://github.com/xandersavvy/ContentBoard-Blog-App)**  - A CRUD app with authentication though  i have to implement jwt and password encryptionand working on that , made using JAVA , Spring Boot, SPring JPA , MYSQL , Jquery for the frontend.
 
