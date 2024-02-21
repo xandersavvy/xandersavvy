@@ -7,8 +7,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/xandersouvik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Souvik_Ghosh&screen_name=Souvik_Ghosh)
 
 
-- - - -
-
 
 - - - -
 
@@ -52,3 +50,12 @@
 
 - 📝  Connect with me -
     If you have a potential opportunity for me , please feel free to email me on **[savyxander7@gmail.com](mailto://savyxander7@gmail.com)**   . I am not that much active on any social medias.
+
+
+
+
+- - - -
+
+<a href="https://app.daily.dev/xandersavy"><img width="500" src="https://api.daily.dev/devcards/v2/0DSoGD6asiprL09d61Swv.png?type=wide&r=hoa"  alt="Souvik Ghosh's Dev Card"/></a>
+
+- - - -
