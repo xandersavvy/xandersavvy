@@ -55,7 +55,7 @@
 
 
 - - - -
-
+<div style="display:flex;justify-content:center;align-items:center;width:100%;height:auto;">
 <a style="display:flex;justify-content:center;align-items:center;width:100%;height:auto;" href="https://app.daily.dev/xandersavy"><img width="500"  style="margin:2px;width:90%;" src="https://api.daily.dev/devcards/v2/0DSoGD6asiprL09d61Swv.png?type=wide&r=hoa"  alt="Souvik Ghosh's Dev Card"/></a>
-
+</div>
 - - - -
